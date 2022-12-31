@@ -1,0 +1,12 @@
+@import "mdb-ui-kit/src/scss/free/variables";
+
+
+// Animations
+$sw-animation-primary: cubic-bezier(0.5, -0.05, 0.5, 1.5) !default;
+$sw-animation-linear: cubic-bezier(0, 0, 1, 1) !default;
+
+// Gradients
+$sw-gradient-primary: linear-gradient(to left, #29eac4, #4284db) !default;
+
+// Colors
+$sw-color-light: #ffffff !default;

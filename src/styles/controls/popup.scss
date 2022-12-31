@@ -1,0 +1,11 @@
+.swal2-default-outline {
+  @extend .sw-shadow;
+}
+
+.swal2-popup {
+  @extend .sw-shadow;
+}
+
+.sw-shadow .swal2-success-ring {
+  @extend .sw-shadow, .sw-shadow-plus;
+}
