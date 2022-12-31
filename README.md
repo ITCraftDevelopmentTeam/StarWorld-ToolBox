@@ -30,3 +30,9 @@ npm run serve
 ```bash
 npm run build
 ```
+
+构建项目（开发环境）
+
+```bash
+npm run build:dev
+```
