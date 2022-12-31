@@ -1,0 +1,9 @@
+@import "../variables";
+
+.sw-rxui-animation-all-linear {
+  transition: all .2s $sw-animation-linear !important;
+}
+
+.sw-rxui-animation-all-primary {
+  transition: all .2s $sw-animation-primary !important;
+}
